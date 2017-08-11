@@ -26,7 +26,7 @@ SECRET_KEY = '5-cul_3#ji5*o%x@eu2-#m2@l$o%^d(+qzlb4$dvr9kv5obawd'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', 'http://flax.pythonanywhere.com',]
+ALLOWED_HOSTS = ['localhost', 'pythonanywhere.com',]
 
 
 # Application definition
