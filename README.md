@@ -1,4 +1,4 @@
 FLAX
 -------
 
-[Demo](http://www.flax.pythonanywhere.com)
+[Demo](http://flax.pythonanywhere.com/)
