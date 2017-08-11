@@ -23,15 +23,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '5-cul_3#ji5*o%x@eu2-#m2@l$o%^d(+qzlb4$dvr9kv5obawd'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-<<<<<<< HEAD
-DEBUG = True
 
-ALLOWED_HOSTS = []
-=======
 DEBUG = False
 
 ALLOWED_HOSTS = ['localhost', 'http://flax.pythonanywhere.com',]
->>>>>>> 0727b25d27788f766b967909ff482d05710457aa
 
 
 # Application definition
